@@ -1,0 +1,10 @@
+@import "wolterskluwer-bootstrap3-theme.min.css";
+@import "bliss-font.css";
+
+* {
+    border-radius: 0px !important;
+}
+
+.input-group {
+    padding-bottom: 30px;
+}

@@ -1,0 +1,90 @@
+@font-face {
+    font-family: 'Bliss2';
+    font-weight: 100;
+    font-style: normal;
+    src: url('../fonts/Bliss2/Bliss2XL.eot?#iefix') format('embedded-opentype'), url('../fonts/Bliss2/Bliss2XL.woff') format('woff'), url('../fonts/Bliss2/Bliss2XL.ttf') format('truetype'), url('../fonts/Bliss2/Bliss2XL.svg#Bliss2XL') format('svg');
+}
+@font-face {
+    font-family: 'Bliss2';
+    font-weight: 100;
+    font-style: italic;
+    src: url('../fonts/Bliss2/Bliss2XLI.eot?#iefix') format('embedded-opentype'), url('../fonts/Bliss2/Bliss2XLI.woff') format('woff'), url('../fonts/Bliss2/Bliss2XLI.ttf') format('truetype'), url('../fonts/Bliss2/Bliss2XLI.svg#Bliss2XLI') format('svg');
+}
+
+@font-face {
+    font-family: 'Bliss2';
+    font-weight: 300;
+    font-style: normal;
+    src: url('../fonts/Bliss2/Bliss2L.eot?#iefix') format('embedded-opentype'), url('../fonts/Bliss2/Bliss2L.woff') format('woff'), url('../fonts/Bliss2/Bliss2L.ttf') format('truetype'), url('../fonts/Bliss2/Bliss2L.svg#Bliss2L') format('svg');
+}
+@font-face {
+    font-family: 'Bliss2';
+    font-weight: 300;
+    font-style: italic;
+    src: url('../fonts/Bliss2/Bliss2LI.eot?#iefix') format('embedded-opentype'), url('../fonts/Bliss2/Bliss2LI.woff') format('woff'), url('../fonts/Bliss2/Bliss2LI.ttf') format('truetype'), url('../fonts/Bliss2/Bliss2LI.svg#Bliss2LI') format('svg');
+}
+
+@font-face {
+    font-family: 'Bliss2';
+    font-weight: normal;
+    font-style: italic;
+    src: url('../fonts/Bliss2/Bliss2I.eot?#iefix') format('embedded-opentype'), url('../fonts/Bliss2/Bliss2I.woff') format('woff'), url('../fonts/Bliss2/Bliss2I.ttf') format('truetype'), url('../fonts/Bliss2/Bliss2I.svg#Bliss2I') format('svg');
+}
+@font-face {
+    font-family: 'Bliss2';
+    font-weight: normal;
+    font-style: normal;
+    src: url('../fonts/Bliss2/Bliss2R.eot?#iefix') format('embedded-opentype'), url('../fonts/Bliss2/Bliss2R.woff') format('woff'), url('../fonts/Bliss2/Bliss2R.ttf') format('truetype'), url('../fonts/Bliss2/Bliss2R.svg#Bliss2R') format('svg');
+}
+
+@font-face {
+    font-family: 'Bliss2';
+    font-weight: 500;
+    font-style: normal;
+    src: url('../fonts/Bliss2/Bliss2M.eot?#iefix') format('embedded-opentype'), url('../fonts/Bliss2/Bliss2M.woff') format('woff'), url('../fonts/Bliss2/Bliss2M.ttf') format('truetype'), url('../fonts/Bliss2/Bliss2M.svg#Bliss2M') format('svg');
+}
+@font-face {
+    font-family: 'Bliss2';
+    font-weight: 500;
+    font-style: italic;
+    src: url('../fonts/Bliss2/Bliss2MI.eot?#iefix') format('embedded-opentype'), url('../fonts/Bliss2/Bliss2MI.woff') format('woff'), url('../fonts/Bliss2/Bliss2MI.ttf') format('truetype'), url('../fonts/Bliss2/Bliss2MI.svg#Bliss2MI') format('svg');
+}
+
+@font-face {
+    font-family: 'Bliss2';
+    font-weight: bold;
+    font-style: normal;
+    src: url('../fonts/Bliss2/Bliss2B.eot?#iefix') format('embedded-opentype'), url('../fonts/Bliss2/Bliss2B.woff') format('woff'), url('../fonts/Bliss2/Bliss2B.ttf') format('truetype'), url('../fonts/Bliss2/Bliss2B.svg#Bliss2B') format('svg');
+}
+@font-face {
+    font-family: 'Bliss2';
+    font-weight: bold;
+    font-style: italic;
+    src: url('../fonts/Bliss2/Bliss2BI.eot?#iefix') format('embedded-opentype'), url('../fonts/Bliss2/Bliss2BI.woff') format('woff'), url('../fonts/Bliss2/Bliss2BI.ttf') format('truetype'), url('../fonts/Bliss2/Bliss2BI.svg#Bliss2BI') format('svg');
+}
+
+@font-face {
+    font-family: 'Bliss2';
+    font-weight: 800;
+    font-style: normal;
+    src: url('../fonts/Bliss2/Bliss2XB.eot?#iefix') format('embedded-opentype'), url('../fonts/Bliss2/Bliss2XB.woff') format('woff'), url('../fonts/Bliss2/Bliss2XB.ttf') format('truetype'), url('../fonts/Bliss2/Bliss2XB.svg#Bliss2XB') format('svg');
+}
+@font-face {
+    font-family: 'Bliss2';
+    font-weight: 800;
+    font-style: italic;
+    src: url('../fonts/Bliss2/Bliss2XBI.eot?#iefix') format('embedded-opentype'), url('../fonts/Bliss2/Bliss2XBI.woff') format('woff'), url('../fonts/Bliss2/Bliss2XBI.ttf') format('truetype'), url('../fonts/Bliss2/Bliss2XBI.svg#Bliss2XBI') format('svg');
+}
+
+@font-face {
+    font-family: 'Bliss2';
+    font-weight: 900;
+    font-style: normal;
+    src: url('../fonts/Bliss2/Bliss2H.eot?#iefix') format('embedded-opentype'), url('../fonts/Bliss2/Bliss2H.woff') format('woff'), url('../fonts/Bliss2/Bliss2H.ttf') format('truetype'), url('../fonts/Bliss2/Bliss2H.svg#Bliss2H') format('svg');
+}
+@font-face {
+    font-family: 'Bliss2';
+    font-weight: 900;
+    font-style: italic;
+    src: url('../fonts/Bliss2/Bliss2HI.eot?#iefix') format('embedded-opentype'), url('../fonts/Bliss2/Bliss2HI.woff') format('woff'), url('../fonts/Bliss2/Bliss2HI.ttf') format('truetype'), url('../fonts/Bliss2/Bliss2HI.svg#Bliss2HI') format('svg');
+}
